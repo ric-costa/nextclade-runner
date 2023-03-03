@@ -1,0 +1,12 @@
+{
+    "name": "nf-core/viralrecon",
+    "homePage": "https://github.com/nf-core/viralrecon",
+    "repos": {
+        "nf-core/modules": {
+            "git_sha": "682f789f93070bd047868300dd018faf3d434e7c"
+        },
+        "nextclade/run": {
+            "git_sha": "682f789f93070bd047868300dd018faf3d434e7c"
+        }
+    }
+}

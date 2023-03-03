@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/nf-core/viralrecon/blob/3ee1fe98fdf17a80922aa8cf4da4afaf483f3429/modules/nf-core/modules/nextclade/datasetget/main.nf
+HostUrl=https://raw.githubusercontent.com/nf-core/viralrecon/3ee1fe98fdf17a80922aa8cf4da4afaf483f3429/modules/nf-core/modules/nextclade/datasetget/main.nf
